@@ -21,3 +21,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viboothibalasooriya&show_icons=true&locale=en" alt="viboothibalasooriya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viboothibalasooriya&" alt="viboothibalasooriya" /></p>
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/github-user-contribution.svg" />
+  <br/>
+</div>

@@ -24,6 +24,6 @@
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/github-user-contribution.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/github-user-contribution (1).svg" />
   <br/>
 </div>

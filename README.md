@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viboothibalasooriya&label=Profile%20views&color=0e75b6&style=flat" alt="viboothibalasooriya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viboothibalasooriya" alt="viboothibalasooriya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="layer 0.png" alt="viboothibalasooriya" /></a> </p>
 
 - 🔭 I’m currently working on **Ravenspun**
 

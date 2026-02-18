@@ -76,5 +76,5 @@
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/github-user-contribution%20(1).svg"/>
+  <img src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/github-user-contribution%20(2).svg"/>
 </p>

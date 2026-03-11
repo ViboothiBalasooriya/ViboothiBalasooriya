@@ -8,7 +8,7 @@
 
 <!-- HERO IMAGE / BANNER -->
 <p align="center">
-  <img src="Layer 0.png" alt="banner" width="700"/>
+  <img src="Layer 0.png" alt="banner" width="450"/>
 </p>
 
 ---

@@ -97,7 +97,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ViboothiBalasooriya/ViboothiBalasooriya/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/github-user-contribution%20(2).svg" alt="Snake animation" />
 
 ###
 

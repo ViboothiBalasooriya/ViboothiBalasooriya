@@ -69,7 +69,7 @@ me anywhere near a keyboard.
 ### 🔗 Contribution
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViboothiBalasooriya&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=0D1117&hide_border=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/github-user-contribution%20(4).svg" width="100%" alt="Contribution Graph"/>
 </div>
 
 <br/>

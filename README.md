@@ -74,15 +74,11 @@ me anywhere near a keyboard.
 
 <br/>
 
-### 🔗 Popular repositories
+### 🔗 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ViboothiBalasooriya/Portfolio-2.0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViboothiBalasooriya&repo=Portfolio-2.0&bg_color=0D1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&icon_color=8b949e" alt="Portfolio 2.0 Repo"/>
-  </a>
-  <a href="https://github.com/ViboothiBalasooriya/Recipe-Vault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViboothiBalasooriya&repo=Recipe-Vault&bg_color=0D1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&icon_color=8b949e" alt="Recipe Vault Repo"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ViboothiBalasooriya&show_icons=true&bg_color=0D1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&icon_color=8b949e" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViboothiBalasooriya&layout=compact&bg_color=0D1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
 </p>
 
 <br/>

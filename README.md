@@ -22,7 +22,7 @@
 <h3 align="center">⟨ 👨‍💻 SYSTEM.PROFILE ⟩</h3>
 
 <div align="center">
-  <img width="100%" src="assets/bio.svg" alt="About Viboothi: Full Stack Developer from Sri Lanka, working on Ravenspun, learning advanced frontend and UI/UX"/>
+  <img width="100%" src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/bio.svg" alt="About Viboothi: Full Stack Developer from Sri Lanka, working on Ravenspun, learning advanced frontend and UI/UX"/>
 </div>
 
 ---

@@ -92,5 +92,5 @@
 
 <!-- FOOTER (animated) -->
 <div align="center">
-  <img width="100%" src="assets/footer.svg" alt="End of transmission"/>
+  <img width="100%" src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/footer.svg" alt="End of transmission"/>
 </div>

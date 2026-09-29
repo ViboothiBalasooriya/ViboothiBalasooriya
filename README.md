@@ -1,96 +1,93 @@
-<!-- HEADER (animated) -->
 <div align="center">
-  <img width="100%" src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/header.svg" alt="Viboothi Balasooriya"/>
-</div>
-
-<!-- TYPING -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=%3E+Initializing+profile...;%3E+Full+Stack+Developer+%40+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;%3E+Blending+design+%2B+code;%3E+Building+the+future+of+the+web+%E2%9A%A1"/>
+  <img src="ChatGPT%20Image%20Sep%2018%2C%202026%2C%2012_52_16%20PM.png" width="100%" alt="Header Image" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-FF0033?style=for-the-badge&labelColor=0A0000"/>
-  <img src="https://img.shields.io/badge/LOCATION-SRI%20LANKA-8B0000?style=for-the-badge&labelColor=0A0000"/>
-  <img src="https://img.shields.io/badge/MODE-BUILDING-FF6A00?style=for-the-badge&labelColor=0A0000"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=35&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=👋+Hello,+I'm+Viboothi+Balasooriya;🚀+Crafting+Code+in+the+Dark;🌌+Welcome+to+my+digital+space" alt="Typing Greeting"/>
 </div>
 
----
+### 🔗 Know About Me
 
-<!-- ABOUT (animated terminal bio) -->
-<h3 align="center">⟨ 👨‍💻 SYSTEM.PROFILE ⟩</h3>
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="avatar_cropped.jpg" width="100%" alt="Avatar"/>
+    </td>
+    <td width="70%">
+      <b>Hey there! I'm Viboothi</b><br><br>
+      I'm a Full Stack Developer diving deep into software development and UI/UX design.<br><br>
+      By day, I'm mastering frontend technologies, data structures, and writing code in <b>JavaScript, TypeScript, and Python</b>.<br><br>
+      When I'm not building web applications or working on <b>Ravenspun</b>, you can usually find me designing sleek interfaces or tracking the latest tech trends.<br><br>
+      <b>⚙️ Tech Stack:</b><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-  <img width="100%" src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/bio.svg" alt="About Viboothi: Full Stack Developer from Sri Lanka, working on Ravenspun, learning advanced frontend and UI/UX"/>
-</div>
+### 🔗 Top Projects (built to avoid manual labor)
 
----
+<table>
+  <tr>
+    <td width="70%">
+      <ul>
+        <li><b><a href="#">RAVENSPUN</a></b> Secure user logic and frontend experiences, because some code needs to self-destruct gracefully.</li><br>
+        <li><b><a href="#">PORTFOLIO 3.0</a></b> A collection of React components and design tokens that run purely on faith, caffeine, and a lot of console.logs.</li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="120" alt="Laptop"/>
+    </td>
+  </tr>
+</table>
 
-<!-- CONNECT -->
-<h3 align="center">⟨ 🌐 NETWORK.LINKS ⟩</h3>
+### 🔗 Connect
 
 <p align="center">
-  <a href="https://github.com/ViboothiBalasooriya"><img src="https://img.shields.io/badge/GitHub-0A0000?style=for-the-badge&logo=github&logoColor=FF0033&color=FF0033"/></a>
-  <a href="https://linkedin.com/in/ViboothiBalasooriya"><img src="https://img.shields.io/badge/LinkedIn-0A0000?style=for-the-badge&logo=linkedin&logoColor=FF3B3B&color=8B0000"/></a>
-  <a href="https://fb.com/ViboothiBalasooriya"><img src="https://img.shields.io/badge/Facebook-0A0000?style=for-the-badge&logo=facebook&logoColor=FF6A00&color=FF6A00"/></a>
-  <a href="https://behance.net/ViboothiBalasooriya"><img src="https://img.shields.io/badge/Behance-0A0000?style=for-the-badge&logo=behance&logoColor=FF0033&color=FF0033"/></a>
-  <a href="https://hackerrank.com/@viboothibalasur1"><img src="https://img.shields.io/badge/HackerRank-0A0000?style=for-the-badge&logo=hackerrank&logoColor=FF3B3B&color=8B0000"/></a>
+  <a href="https://github.com/ViboothiBalasooriya"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ViboothiBalasooriya"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://fb.com/ViboothiBalasooriya"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+  <a href="https://behance.net/ViboothiBalasooriya"><img src="https://img.shields.io/badge/BEHANCE-1769FF?style=flat-square&logo=behance&logoColor=white"/></a>
 </p>
 
----
+```text
+Code is never finished. It only becomes slightly less terrible over time.
 
-<!-- SKILLS -->
-<h3 align="center">⟨ ⚙️ TECH.STACK ⟩</h3>
+Every commit I make is essentially just a small, desperate apology to my future self.
+Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let
+me anywhere near a keyboard.
+```
+
+
+
+### 🔗 Contribution
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,php,laravel&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,flutter,dart,firebase,git&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViboothiBalasooriya&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=0D1117&hide_border=true" width="100%" alt="Contribution Graph"/>
 </div>
 
----
+<br/>
 
-<!-- STATS -->
-<h3 align="center">⟨ 📊 DATA.STREAM ⟩</h3>
+### 🔗 Popular repositories
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ViboothiBalasooriya&show_icons=true&bg_color=0A0000&title_color=FF0033&text_color=FFB3B3&icon_color=FF6A00&border_color=8B0000"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViboothiBalasooriya&layout=compact&bg_color=0A0000&title_color=FF0033&text_color=FFB3B3&border_color=8B0000"/>
-</div>
+<p align="center">
+  <a href="https://github.com/ViboothiBalasooriya/Ravenspun">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViboothiBalasooriya&repo=Ravenspun&bg_color=0D1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&icon_color=8b949e" alt="Ravenspun Repo"/>
+  </a>
+  <a href="https://github.com/ViboothiBalasooriya/viboothi-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViboothiBalasooriya&repo=viboothi-portfolio&bg_color=0D1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&icon_color=8b949e" alt="Portfolio Repo"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ViboothiBalasooriya&background=0A0000&border=8B0000&ring=FF0033&fire=FF6A00&currStreakNum=FFE1E1&currStreakLabel=FF0033&sideNums=FFE1E1&sideLabels=FF3B3B&dates=B32030"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ViboothiBalasooriya&theme=radical&no-frame=true&no-bg=true&margin-w=10"/>
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-<h3 align="center">⟨ 📈 CONTRIBUTION.MATRIX ⟩</h3>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ViboothiBalasooriya&bg_color=0A0000&color=FF3B3B&line=FF0033&point=FFFFFF&area=true&area_color=8B0000&hide_border=true"/>
-</div>
-
----
-
-<!-- SNAKE -->
-<div align="center">
-  <img src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/github-user-contribution%20(4).svg"/>
-</div>
-
----
-
-<!-- QUOTE -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=FF3B3B&center=true&vCenter=true&width=600&lines=%22The+future+is+already+here.%22;%22Code+is+poetry+in+the+dark.%22"/>
-</div>
-
-<!-- FOOTER (animated) -->
-<div align="center">
-  <img width="100%" src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/footer.svg" alt="End of transmission"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" alt="Waving Hand"/>
+  <p><i>Code is poetry in the dark. Thanks for stopping by!</i></p>
 </div>

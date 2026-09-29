@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=35&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=👋+Hello,+I'm+Viboothi+Balasooriya;🚀+Crafting+Code+in+the+Dark;🌌+Welcome+to+my+digital+space" alt="Typing Greeting"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=35&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%91%8B+Hello%2C+I%27m+Viboothi+Balasooriya;%F0%9F%9A%80+Crafting+Code+in+the+Dark;%F0%9F%8C%8C+Welcome+to+my+digital+space" alt="Typing Greeting"/>
 </div>
 
 ### 🔗 Know About Me

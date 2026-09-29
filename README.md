@@ -74,14 +74,6 @@ me anywhere near a keyboard.
 
 <br/>
 
-### 🔗 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ViboothiBalasooriya&show_icons=true&bg_color=0D1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&icon_color=8b949e" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViboothiBalasooriya&layout=compact&bg_color=0D1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
-</p>
-
-<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" alt="Waving Hand"/>

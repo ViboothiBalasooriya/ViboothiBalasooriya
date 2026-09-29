@@ -80,7 +80,7 @@
 
 <!-- SNAKE -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ViboothiBalasooriya/ViboothiBalasooriya/main/github-user-contribution.svg"/>
+  <img src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/github-user-contribution%20(4).svg"/>
 </div>
 
 ---

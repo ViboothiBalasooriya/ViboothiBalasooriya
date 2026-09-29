@@ -77,11 +77,11 @@ me anywhere near a keyboard.
 ### 🔗 Popular repositories
 
 <p align="center">
-  <a href="https://github.com/ViboothiBalasooriya/Ravenspun">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViboothiBalasooriya&repo=Ravenspun&bg_color=0D1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&icon_color=8b949e" alt="Ravenspun Repo"/>
+  <a href="https://github.com/ViboothiBalasooriya/Portfolio-2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViboothiBalasooriya&repo=Portfolio-2.0&bg_color=0D1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&icon_color=8b949e" alt="Portfolio 2.0 Repo"/>
   </a>
-  <a href="https://github.com/ViboothiBalasooriya/viboothi-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViboothiBalasooriya&repo=viboothi-portfolio&bg_color=0D1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&icon_color=8b949e" alt="Portfolio Repo"/>
+  <a href="https://github.com/ViboothiBalasooriya/Recipe-Vault">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ViboothiBalasooriya&repo=Recipe-Vault&bg_color=0D1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&icon_color=8b949e" alt="Recipe Vault Repo"/>
   </a>
 </p>
 

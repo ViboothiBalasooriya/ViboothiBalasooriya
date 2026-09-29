@@ -1,6 +1,6 @@
 <!-- HEADER (animated) -->
 <div align="center">
-  <img width="100%" src="[assets/header.svg](https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/header.svg)" alt="Viboothi Balasooriya"/>
+  <img width="100%" src="https://github.com/ViboothiBalasooriya/ViboothiBalasooriya/blob/main/header.svg" alt="Viboothi Balasooriya"/>
 </div>
 
 <!-- TYPING -->
